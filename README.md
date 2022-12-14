@@ -8,3 +8,7 @@ Gerenciador de dependências
     -Compiles projects
     -Runs 'tasks'
     -Manage Dependencies
+
+    iex -S mix
+
+##
